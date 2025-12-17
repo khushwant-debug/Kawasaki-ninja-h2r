@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function () {
    H2R SOUND BUTTON LOGIC
    ========================= */
 const soundBtn = document.getElementById("soundBtn");
-const h2rAudio = document.getElementById("h2rAudio");
+const h2rAudio = document.getElementById("audio\\h2r-sound.mp3.mp3");
 
 if (soundBtn && h2rAudio) {
   soundBtn.addEventListener("click", () => {
